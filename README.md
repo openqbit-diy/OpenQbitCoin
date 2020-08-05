@@ -7,11 +7,18 @@ OpenQbitCoin will use future consensus algorithm development called PoQu (Proof 
 
 The opensource version of Mini BlocklyChain version Beta 1.0, is a blockchain based on Blockly programming for App Inventor and others blockly systems. Information is available at languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
 
+https://github.com/openqbit-diy/MiniBlocklyChain
+
 What is Proof of Quantum (PQu)?
 
 PoQu. - "Proof of Quantum" is a consensus algorithm developed for Mini BlocklyChain, this test is a variant of the Test of Work (PoW) that works as follows.
 The Test of Quantum (PoQu) at startup is executed with the same algorithm as the "Test of Work" (PoW) is based on putting the processor of the device (PC, Server, Tablet or Mobile Phone) to work to obtain a string of characters that is a mathematical puzzle called a "hash".
-Remember that a "hash" is an algorithm or mathematical process that when introducing a phrase or some type of digital information such as text files, program, image, video, sound or other diverse type of digital information gives us as a result an alphanumeric character that represents the digital signature that represents it in a unique and non-repeatable way of the data, the hash algorithm is unidirectional, this means that when you enter a data to obtain its signature "hash" its reverse process can not be performed, having a signature "hash" we can not know what information was obtained this property gives us a security advantage to process the information we send over the Internet. How does it work? Imagine sending any kind of information through non-secure channels and accompany it with its respective "source hash", the receiver when receiving the information can get the "hash" of the information received we will call it "destination hash" and check it with the "source hash" if both "hashes" are the same we can confirm that the information has not been altered in the channel that was sent, is just an example where this type of information security process is currently used.
+
+Remember that a "hash" is an algorithm or mathematical process that when introducing a phrase or some type of digital information such as text files, program, image, video, sound or other diverse type of digital information gives us as a result an alphanumeric character that represents the digital signature that represents it in a unique and non-repeatable way of the data, the hash algorithm is unidirectional, this means that when you enter a data to obtain its signature "hash" its reverse process can not be performed, having a signature "hash" we can not know what information was obtained this property gives us a security advantage to process the information we send over the Internet. 
+
+How does it work? 
+
+Imagine sending any kind of information through non-secure channels and accompany it with its respective "source hash", the receiver when receiving the information can get the "hash" of the information received we will call it "destination hash" and check it with the "source hash" if both "hashes" are the same we can confirm that the information has not been altered in the channel that was sent, is just an example where this type of information security process is currently used.
 
 Currently there are different types of algorithms or hash processes that differ in the level of security. The most used or known are: MD5, SHA256 and SHA512.
 
