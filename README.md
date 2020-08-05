@@ -3,7 +3,7 @@ Token oriented for the use of quantum computing in the solution of different wor
 
 ![OpenQbitCoin](https://user-images.githubusercontent.com/60530547/89434387-1aa63880-d709-11ea-9bc7-bdac44d0f1a5.png)
 
-OpenQbitCoin will use future consensus algorithm development called PoQu (Proof of Quantum), OpenQbitCoin will start as a token (December 30, 2020) and then it will be a cryptocurrency (2025), this is because OpenQbitCoin will have its own blockchain that is being developed right now (called Mini BlocklyChain).
+OpenQbitCoin will use future consensus algorithm development called PoQu (Proof of Quantum) this is using quantum mechanics, OpenQbitCoin will start as a token (December 30, 2020) and then it will be a cryptocurrency (2025), this is because OpenQbitCoin will have its own blockchain that is being developed right now (called Mini BlocklyChain).
 
 The opensource version of Mini BlocklyChain version Beta 1.0, is a blockchain based on Blockly programming for App Inventor and others blockly systems. Information is available at languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
 
