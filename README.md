@@ -6,6 +6,6 @@ Token oriented for the use of quantum computing in the solution of different wor
 
 Release date: December 30, 2020
 
-Foundation OpenQbit.
+By Foundation OpenQbit.
 
 www.OpenQbit.com
