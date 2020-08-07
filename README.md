@@ -1,4 +1,4 @@
-# OpenQbitCoin
+# OpenQbitCoin 
 Token oriented for the use of quantum computing in the solution of different world problems in all productive and health sectors.
 
 ![OpenQbitCoin](https://user-images.githubusercontent.com/60530547/89434387-1aa63880-d709-11ea-9bc7-bdac44d0f1a5.png)
@@ -10,6 +10,10 @@ OpenQbitCoin will start as a token (December 30, 2020) and then it will be a cry
 The opensource version of Mini BlocklyChain version Beta 1.0, is a blockchain based on Blockly programming for App Inventor and others blockly systems. Information is available at languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
 
 https://github.com/openqbit-diy/MiniBlocklyChain
+
+Timeline Foundation OpenQbit.
+
+![CronologyProjectsOpenQbit](https://user-images.githubusercontent.com/60530547/89436800-5a225400-d70c-11ea-9996-6a56cb184dde.png)
 
 What is Proof of Quantum (PQu)?
 
