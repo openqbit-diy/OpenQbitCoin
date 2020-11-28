@@ -90,8 +90,8 @@ https://es.wikipedia.org/wiki/Funcion_hash
 NOTE: The Test of Work (PoW) used in mobile phones can only use a maximum difficulty of 5 since the mathematical processing of these devices is not dedicated like servers or PCs. We only use the PoW algorithm to obtain the opportunity to obtain your pass or permission to enter the Quantum Random Number Generator (QRNG) system and with it to execute the Quantum Random Number Generator (PoQu) algorithm.
 
 
-OpenQbitCoin - Release date: December 30, 2020
+COINsolidation - Release date: December 30, 2020
 
-By Foundation OpenQbit.
+By OpenQbit.
 
 www.OpenQbit.com
