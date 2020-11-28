@@ -94,4 +94,6 @@ COINsolidation - Release date: December 30, 2020
 
 By OpenQbit.
 
-www.OpenQbit.com
+www.OpenQbit.com & www.coinsolidation.org
+
+Developments launched in Estonia 2020-2021.
