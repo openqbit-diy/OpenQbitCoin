@@ -1,5 +1,10 @@
-# OpenQbitCoin 
-Token oriented for the use of quantum computing in the solution of different world problems in all productive and health sectors.
+# OpenQbitCoin is now COINSolidation.
+
+COINSolidation is the new name for OpenQbitCoin.
+
+Token oriented for the use of quantum computing in the solution of different world problems in all productive and health sectors and one new solution to consolidate address of differents blockchain.
+
+Refer to https://www.coinsolidation.org
 
 ![OpenQbitCoin](https://user-images.githubusercontent.com/60530547/89434387-1aa63880-d709-11ea-9bc7-bdac44d0f1a5.png)
 
