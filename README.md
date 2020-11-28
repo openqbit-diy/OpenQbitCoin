@@ -2,6 +2,8 @@
 
 COINSolidation is the new name for OpenQbitCoin.
 
+Greater advantages and added features we have only divided two fields (technological and financial) to focus each area. OpenQbit continues with its Roadmap adding new developments. In OpenQbit our token is called COINsolidation and it will be exclusively focused on the cryptocurrency sector.
+
 Token oriented for the use of quantum computing in the solution of different world problems in all productive and health sectors and one new solution to consolidate address of differents blockchain.
 
 Refer to https://www.coinsolidation.org
