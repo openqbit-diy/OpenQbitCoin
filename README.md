@@ -1,6 +1,6 @@
 # OpenQbitCoin is now COINSolidation.
 
-COINSolidation is the new name for OpenQbitCoin.
+COINSolidation Token based ERC20 is the new name for OpenQbitCoin.
 
 Greater advantages and added features we have only divided two fields (technological and financial) to focus each area. OpenQbit continues with its Roadmap adding new developments. In OpenQbit our token is called COINsolidation and it will be exclusively focused on the cryptocurrency sector.
 
