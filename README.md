@@ -18,9 +18,9 @@ The opensource version of Mini BlocklyChain version Beta 1.0, is a blockchain ba
 
 https://github.com/openqbit-diy/MiniBlocklyChain
 
-Timeline Foundation OpenQbit.
+Timeline Foundation OpenQbit.com + Coinsolidation.org
 
-![CronologyProjectsOpenQbit](https://user-images.githubusercontent.com/60530547/89436800-5a225400-d70c-11ea-9996-6a56cb184dde.png)
+![roadmap](https://user-images.githubusercontent.com/60530547/101451418-bdf29e80-38f1-11eb-9446-a1ea4105a1f1.png)
 
 What is Proof of Quantum (PQu)?
 
