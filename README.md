@@ -20,7 +20,7 @@ https://github.com/openqbit-diy/MiniBlocklyChain
 
 Timeline Foundation OpenQbit.com + Coinsolidation.org
 
-![roadmap](https://user-images.githubusercontent.com/60530547/101451418-bdf29e80-38f1-11eb-9446-a1ea4105a1f1.png)
+![roadmap30Abril](https://user-images.githubusercontent.com/60530547/113538616-4d0e7b00-95a1-11eb-9fba-eddb1e3c183b.png)
 
 What is Proof of Quantum (PQu)?
 
